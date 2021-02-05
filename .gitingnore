@@ -1,0 +1,6 @@
+/build
+/dist
+user.json
+server.json
+game.jar
+version.txt
