@@ -1,5 +1,5 @@
-/build
-/dist
+build/*
+dist/*
 user.json
 server.json
 game.jar
